@@ -7,7 +7,7 @@ k = 10.0   # kcal/mol/Å^2
 
 # Parse the PDB structure
 parser = PDBParser()
-structure = parser.get_structure('protein', r'C:\Users\Imaging\Documents\Oleg_python\PROJECTS\MarkovStateModel\2zwh_fixed_pH_7.pdb')
+structure = parser.get_structure('protein', r'path\PROJECTS\MarkovStateModel\2zwh_fixed_pH_7.pdb')
 
 # Get the list of central carbon atoms (CA) in the structure
 central_carbons = []
