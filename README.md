@@ -60,5 +60,5 @@ Install all the required packages using pip
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Acknowledgments
+### Credits
 BioPython contributors and community for providing an excellent toolkit for computational biology.
